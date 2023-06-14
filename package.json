@@ -13,9 +13,6 @@
     "lint": "eslint .",
     "format": "prettier . --write"
   },
-  "publishConfig": {
-    "@f3lpz:registry": "https://npm.pkg.github.com"
-  },
   "devDependencies": {
     "@whiskeysockets/baileys": "^6.0.0",
     "@prisma/client": "^4.7.1",
